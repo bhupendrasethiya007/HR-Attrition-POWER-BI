@@ -29,8 +29,9 @@ The **HR Attrition Analysis Dashboard** is an interactive Power BI project desig
 
 The dataset contains 
 
-Total Records: 1,470+ Rows
-Total Fields: 44 Columns
+#Total Records: 1,470+ Rows
+
+#Total Fields: 44 Columns
 
 ---
 
@@ -101,20 +102,25 @@ Total Fields: 44 Columns
 
 ## 📁 Project Structure
 
+
+Or if you want a slightly more professional structure:
+
+```markdown
+## 📁 Project Structure
+
+```text
 HR-Attrition-Analysis/
 │
 ├── Dataset/
 │   └── HR_Employee_Data.xlsx
 │
-├── Images/
-│   └── HR_Dashboard.png
-│
-├── PowerBI_File/
+├── Dashboard/
 │   └── HR_ANALYSIS_DASHBOARD.pbix
 │
+├── Images/
+│   └── Dshboard_image.png
+│
 └── README.md
-
----
 
 ## 👨‍💻 Author
 
