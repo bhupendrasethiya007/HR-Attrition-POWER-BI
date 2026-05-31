@@ -96,7 +96,7 @@ The dataset contains 
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="DASHBOARD_image" width="1000">
+  <img src="Dashboard_image" width="1000">
 </p>
 
 
